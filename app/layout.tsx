@@ -201,13 +201,7 @@ export default function RootLayout({
   {/* Redes Sociales */}
   <div className="mt-12 flex justify-center gap-6">
     <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
-      <img src="/whatsapp.svg" alt="WhatsApp" className="w-8 h-8 hover:scale-110 transition" />
-    </a>
-    <a href="https://instagram.com/invitrack" target="_blank" rel="noopener noreferrer">
-      <img src="/instagram.svg" alt="Instagram" className="w-8 h-8 hover:scale-110 transition" />
-    </a>
-    <a href="mailto:contacto@inviTrack.com">
-      <img src="/email.svg" alt="Email" className="w-8 h-8 hover:scale-110 transition" />
+      <img src="/whatsapp2.svg" alt="WhatsApp" className="w-8 h-8 hover:scale-110 transition" />
     </a>
   </div>
 </section>
